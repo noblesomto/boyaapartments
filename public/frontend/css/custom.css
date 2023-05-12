@@ -1,0 +1,104 @@
+.bg-grey{
+    background-color: #E0E0E0;
+}
+.bg-white{
+    background-color: #FFF;
+}
+.features-list{
+    display: inline-block;
+    margin-left: 20px;
+    text-align: center;
+}
+.features-list img{
+    width: 35px !important;
+}
+
+.room_services img{
+    width: 35px !important;
+    margin-right: 20px;
+}
+
+.text-black{
+    color: #000 !important;
+}
+
+.text-white{
+    color: #fff !important;
+}
+
+.text-success{
+    color: #007f00 !important;
+    font-weight: 400;
+}
+
+.house-rules{
+    padding: 25px;
+}
+.house-rules li{
+  margin-top: 15px;  
+}
+
+.order-page{
+    padding: 20px;
+}
+.booking{
+    margin-top: 10px;
+    font-size: 18px !important;
+    border-bottom: solid;
+    border-bottom-width: 1px;
+    border-bottom-color: #ccc;
+}
+
+.booking h5{
+    font-weight: 500;
+    color: #000;
+    font-size: 16px !important;
+}
+
+.reservation-section{
+    border-bottom: solid;
+    border-bottom-width: 2px;
+    border-bottom-color: #ccc;
+}
+.form-group label{
+    font-weight: 500 !important;
+}
+
+.contact-form-page label{
+    color: #000;
+}
+.dashboard-side{
+    padding: 20px;
+    margin-top: 30px;
+
+}
+.dashboard-side a{
+    margin-top: 10px;
+    text-align: left;
+}
+
+.dashboard-side .fa{
+    margin-left: 20px;
+    margin-right: 5px;
+}
+
+.dashboard-content{
+    padding: 20px;
+}
+
+.dashboard-content-title{
+    border-bottom: solid;
+    border-bottom-width: 2px;
+    border-bottom-color: #ccc;
+    padding-bottom: 20px;
+}
+
+.features-img{
+    width: 40px;
+}
+
+ @media only screen and (max-width: 992px) {
+    .rev_slider img{
+        height: 200px !important;
+    }
+}

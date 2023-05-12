@@ -1,0 +1,47 @@
+
+.white-bg{
+    background-color: #FFF !important;
+}
+
+.affiliate-quote li{
+    font-size: 16px !important;
+    line-height: 30px;
+    padding-top: 10px;
+}
+
+.prop_status{
+    font-weight: 700;
+    font-size: 20px;
+}
+
+.prop_status th{
+    font-weight: 700;
+    font-size: 20px;
+}
+
+#output_image
+{
+ max-width:150px;
+}
+.imageThumb {
+  max-height: 75px;
+  border: 2px solid;
+  padding: 1px;
+  cursor: pointer;
+}
+.pip {
+  display: inline-block;
+  margin: 10px 10px 0 0;
+}
+.remove {
+  display: block;
+  background: #444;
+  border: 1px solid black;
+  color: white;
+  text-align: center;
+  cursor: pointer;
+}
+.remove:hover {
+  background: white;
+  color: black;
+}
